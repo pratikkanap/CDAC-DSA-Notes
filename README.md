@@ -44,5 +44,11 @@ Java Collections Framework
 
 Problem-solving patterns
 
-Reference : https://github.com/TheAlgorithms/Java
-https://github.com/baoozuma/Head-First-All-Series-PDF
+Reference : 
+1. https://github.com/TheAlgorithms/Java
+   
+2. https://github.com/baoozuma/Head-First-All-Series-PDF
+
+3. https://vanshsikka1222.github.io/DSA-in-JAVA/
+
+4. https://github.com/harshityadav-7/DSAWithJava
