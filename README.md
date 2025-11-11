@@ -52,3 +52,7 @@ Reference :
 3. https://vanshsikka1222.github.io/DSA-in-JAVA/
 
 4. https://github.com/harshityadav-7/DSAWithJava
+
+5. https://www.geeksforgeeks.org/explore?page=2&category=Java&sortBy=submissions&itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=practice_header
+
+6. https://visualgo.net/en
